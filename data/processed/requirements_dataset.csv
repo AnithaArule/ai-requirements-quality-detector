@@ -1,0 +1,31 @@
+id,requirement_sentence,true_label
+1,"The system should be fast.",ambiguous
+2,"The application should load quickly.",ambiguous
+3,"The system should be easy to use.",ambiguous
+4,"The software should be flexible.",ambiguous
+5,"The system should be efficient.",ambiguous
+6,"The admin can manage user accounts and permissions.",incomplete
+7,"The system generates reports.",incomplete
+8,"Notifications should be sent.",incomplete
+9,"The user can update details.",incomplete
+10,"The application stores data.",incomplete
+11,"The interface must be user-friendly.",unverifiable
+12,"The website should be attractive.",unverifiable
+13,"The system should feel smooth.",unverifiable
+14,"The app should be intuitive.",unverifiable
+15,"The software should be convenient.",unverifiable
+16,"The system shall respond within 2 seconds.",well-defined
+17,"The database backup shall run every 24 hours.",well-defined
+18,"The system shall support 500 concurrent users.",well-defined
+19,"The user shall receive an email within 1 minute of registration.",well-defined
+20,"The system shall lock an account after 5 failed login attempts.",well-defined
+21,"The system shall provide the ability to record the user ID and date of all updates to the problem or diagnosis list",well-defined
+22,"The user ID and date or time stamp shall be recorded when the allergies reviewed option is selected",well-defined
+23,"The system shall provide the ability to cosign a note and record the date and time of signature",well-defined
+24,"The system shall provide the ability to record that patient specific instructions or educational material were provided to the patient",well-defined
+25,"The system shall provide the ability to record user ID and date or time stamp for all referral related events",well-defined
+26,"The system shall allow authorized users to update the directory",incomplete
+27,"The system shall provide the ability to generate hardcopy and electronic output by date possibly and possibly date range",ambiguous
+28,"The system shall provide the ability to export structured data which removes those identifiers listed in the HIPAA definition of a limited dataset",well-defined
+29,"This export on hardcopy and electronic output shall leave the actual PHI data unmodified in the original record",well-defined
+30,"The system shall provide the ability to create report summaries.",incomplete

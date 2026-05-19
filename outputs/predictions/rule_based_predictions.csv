@@ -1,0 +1,31 @@
+id,requirement_sentence,true_label,predicted_label,explanation
+1,The system should be fast.,ambiguous,ambiguous,The requirement contains vague terms that can be interpreted in multiple ways.
+2,The application should load quickly.,ambiguous,incomplete,The requirement is too short and lacks necessary details.
+3,The system should be easy to use.,ambiguous,ambiguous,The requirement contains vague terms that can be interpreted in multiple ways.
+4,The software should be flexible.,ambiguous,ambiguous,The requirement contains vague terms that can be interpreted in multiple ways.
+5,The system should be efficient.,ambiguous,ambiguous,The requirement contains vague terms that can be interpreted in multiple ways.
+6,The admin can manage user accounts and permissions.,incomplete,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+7,The system generates reports.,incomplete,incomplete,The requirement is too short and lacks necessary details.
+8,Notifications should be sent.,incomplete,incomplete,The requirement is too short and lacks necessary details.
+9,The user can update details.,incomplete,incomplete,The requirement is too short and lacks necessary details.
+10,The application stores data.,incomplete,incomplete,The requirement is too short and lacks necessary details.
+11,The interface must be user-friendly.,unverifiable,unverifiable,The requirement includes subjective terms that cannot be objectively measured.
+12,The website should be attractive.,unverifiable,unverifiable,The requirement includes subjective terms that cannot be objectively measured.
+13,The system should feel smooth.,unverifiable,unverifiable,The requirement includes subjective terms that cannot be objectively measured.
+14,The app should be intuitive.,unverifiable,unverifiable,The requirement includes subjective terms that cannot be objectively measured.
+15,The software should be convenient.,unverifiable,unverifiable,The requirement includes subjective terms that cannot be objectively measured.
+16,The system shall respond within 2 seconds.,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+17,The database backup shall run every 24 hours.,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+18,The system shall support 500 concurrent users.,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+19,The user shall receive an email within 1 minute of registration.,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+20,The system shall lock an account after 5 failed login attempts.,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+21,The system shall provide the ability to record the user ID and date of all updates to the problem or diagnosis list,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+22,The user ID and date or time stamp shall be recorded when the allergies reviewed option is selected,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+23,The system shall provide the ability to cosign a note and record the date and time of signature,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+24,The system shall provide the ability to record that patient specific instructions or educational material were provided to the patient,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+25,The system shall provide the ability to record user ID and date or time stamp for all referral related events,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+26,The system shall allow authorized users to update the directory,incomplete,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+27,The system shall provide the ability to generate hardcopy and electronic output by date possibly and possibly date range,ambiguous,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+28,The system shall provide the ability to export structured data which removes those identifiers listed in the HIPAA definition of a limited dataset,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+29,This export on hardcopy and electronic output shall leave the actual PHI data unmodified in the original record,well-defined,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
+30,The system shall provide the ability to create report summaries.,incomplete,well-defined,"The requirement is clear, specific, and can be objectively evaluated."
