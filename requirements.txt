@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+numpy
+jupyterlab
+jupyter
+joblib
+python-dotenv
+openai
