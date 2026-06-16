@@ -1,0 +1,7 @@
+requirement_sentence,true_label,ml_prediction,ml_confidence
+The system shall provide the ability to export structured data which removes those identifiers listed in the HIPAA definition of a limited dataset,well-defined,well-defined,0.437
+The system shall respond within 2 seconds.,well-defined,well-defined,0.38
+The system shall provide the ability to record that patient specific instructions or educational material were provided to the patient,well-defined,well-defined,0.443
+The system shall support 500 concurrent users.,well-defined,well-defined,0.338
+The user can update details.,incomplete,well-defined,0.361
+The application stores data.,incomplete,well-defined,0.324
